@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost xe 10"
+    }
+  }
+}
